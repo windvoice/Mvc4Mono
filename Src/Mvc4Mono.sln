@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc4Mono-Simple", "Mvc4Mono-Simple\Mvc4Mono-Simple.csproj", "{B07B7F1F-ADD6-4B02-84FD-8B62CE4C82E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc4Mono-Bundles", "Mvc4Mono-Bundles\Mvc4Mono-Bundles.csproj", "{13F4615C-3118-4F2E-8C66-1839722338F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07B7F1F-ADD6-4B02-84FD-8B62CE4C82E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07B7F1F-ADD6-4B02-84FD-8B62CE4C82E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07B7F1F-ADD6-4B02-84FD-8B62CE4C82E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07B7F1F-ADD6-4B02-84FD-8B62CE4C82E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F4615C-3118-4F2E-8C66-1839722338F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F4615C-3118-4F2E-8C66-1839722338F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F4615C-3118-4F2E-8C66-1839722338F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F4615C-3118-4F2E-8C66-1839722338F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

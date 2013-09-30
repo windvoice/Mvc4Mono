@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - My ASP.NET MVC Application</title>
+        <meta name="viewport" content="width=device-width" />
+        @System.Web.Optimization.Styles.Render("~/css")
+        @System.Web.Optimization.Scripts.Render("~/js")
+    </head>
+    <body>
+        <header>
+            <h1>Hey, Mvc4 on Mono!</h1>
+        </header>
+        <div id="body">
+            @RenderBody()
+        </div>
+    </body>
+</html>
